@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\bin\Debug\NotUygulama.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\bin\Debug\NotUygulama.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\bin\Debug\NotUygulama.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\obj\Debug\NotUygulama.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\obj\Debug\NotUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\obj\Debug\NotUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\obj\Debug\NotUygulama.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\NotUygulama\NotUygulama\obj\Debug\NotUygulama.pdb
